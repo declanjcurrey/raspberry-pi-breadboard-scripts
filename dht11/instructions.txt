@@ -1,0 +1,5 @@
+This script uses a library from GitHub https://github.com/szazo/DHT11_Python to manage the DHT11 sensor connector
+
+In my example I use a PIN 4 on the breadboard for the data connection.
+
+An image and diagram can also be found in this directory
