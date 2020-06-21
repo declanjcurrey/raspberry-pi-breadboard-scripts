@@ -34,7 +34,7 @@ try:
         else:
             log_error(result.error_code)
 except KeyboardInterrupt:
-    print("Script interrupted via keyboard input... Cleaing up GPIO.")
+    print("\n Script interrupted via keyboard input... Cleaing up GPIO.")
     GPIO.cleanup()
     print("Script exited successfully.")
     
